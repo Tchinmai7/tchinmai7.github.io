@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Tarun Chinmai - Portfolio</title>
+    <link>https://tchinmai7.github.io/home/</link>
+    <description>Recent content in Homes on Tarun Chinmai - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://tchinmai7.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://tchinmai7.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/home/about/</guid>
+      <description>Biography Tarun is a Software Engineer based in Chennai, India. He specializes in network security, and is a fan of all things computers. Loves reading novels and binge watching TV shows</description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://tchinmai7.github.io/home/work/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/home/work/</guid>
+      <description>Software Engineer - Akamai Technologies (July 2016 - Present)  Worked on the Edge Proxy platform for the Enterprise Threat Protector (ETP) product. Added IPv6 client support to the Edge Proxy. Built a fully equipped malware analysis lab, complete with secure malware storage, static and dynamic analysis tools and honeypots. Also hardened the lab and access machines to protect against any malware escape. Used Docker and CRIU to transparently migrate active TLS sessions across hosts.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://tchinmai7.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://tchinmai7.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/home/skills/</guid>
+      <description>Programming Languages Intermediate to advanced knowledge of C, C++ Java, Python and PHP Basic Knowledge of Go (Golang) and Ruby
+Databases SQLite, MySQL, Redis
+Web Frameworks Django, Ruby On Rails
+Mobile Technologies Android
+Cloud Technologies AWS, Docker, Kubernetes, Google Cloud Platform</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tchinmai7.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

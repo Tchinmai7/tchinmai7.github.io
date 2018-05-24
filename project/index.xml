@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tarun Chinmai - Portfolio</title>
+    <link>https://tchinmai7.github.io/project/</link>
+    <description>Recent content in Projects on Tarun Chinmai - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 23 May 2018 22:39:44 +0530</lastBuildDate>
+    
+	<atom:link href="https://tchinmai7.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LinkedList</title>
+      <link>https://tchinmai7.github.io/project/linkedlist/</link>
+      <pubDate>Wed, 23 May 2018 22:39:44 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/project/linkedlist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adblocker</title>
+      <link>https://tchinmai7.github.io/project/adblocker/</link>
+      <pubDate>Wed, 23 May 2018 22:39:35 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/project/adblocker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collab</title>
+      <link>https://tchinmai7.github.io/project/collab/</link>
+      <pubDate>Wed, 23 May 2018 22:39:26 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/project/collab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load Balancer</title>
+      <link>https://tchinmai7.github.io/project/load-balancer/</link>
+      <pubDate>Wed, 23 May 2018 22:39:17 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/project/load-balancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quizler</title>
+      <link>https://tchinmai7.github.io/project/quizler/</link>
+      <pubDate>Wed, 23 May 2018 22:39:04 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/project/quizler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Password Manager</title>
+      <link>https://tchinmai7.github.io/project/simple-password-manager/</link>
+      <pubDate>Wed, 23 May 2018 22:38:53 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/project/simple-password-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spot Instance Scheduler</title>
+      <link>https://tchinmai7.github.io/project/spot-instance-scheduler/</link>
+      <pubDate>Wed, 23 May 2018 22:38:11 +0530</pubDate>
+      
+      <guid>https://tchinmai7.github.io/project/spot-instance-scheduler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
